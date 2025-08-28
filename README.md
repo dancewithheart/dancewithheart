@@ -1,16 +1,15 @@
-## Hi there 👋
+### Be the positive change you want to see in life :heart:
 
-<!--
-**dancewithheart/dancewithheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table style="border: none;">
+  <tr style="border: none;">
 
-Here are some ideas to get you started:
+  <td style="border: none;">  
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancewithheart&theme=dark&layout=compact&langs_count=10&hide_title=true&hide=Java,CSS,JavaScript,Makefile,shell,HTML" />
+  </td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <td style="border: none;">
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dancewithheart&count_private=true&show_icons=true&theme=dark&hide_title=true&disable_animations" />
+  </td>
+
+  </tr>
+</table>
