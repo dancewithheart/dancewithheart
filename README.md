@@ -4,7 +4,7 @@
  _________________________________________
 / Monad is just computation where you can  \
 | - put value inside (pure)                |
-\ - chain computation together (==>)       /
+\ - chain computation together (>>=)       /
  -----------------------------------------
 ```
 
