@@ -1,15 +1,31 @@
 ### Be the positive change you want to see in life :heart:
 
-<table style="border: none;">
-  <tr style="border: none;">
+```text
+ _________________________________________
+/ Monad is just:                          \
+|                                         |
+|trait Monad[F[_]]:                       |
+|  def pure[A]: A => F[A]                 |
+|  extension [A, B](a : F[A])             |
+|    infix def >>= (f: A => F[B]): F[B]   |
+|                                         |
+|trait MonadLaws[M[_]] extends Monad[M]:  |
+|  def rightId[A,B,C](m: M[A]) =          |
+|    (m >>= pure) == m                    |
+|                                         |
+|  def leftId[A,B,C](a:A, f:A => M[B]) =  |
+|     (pure(a) >>= f) == f(a)             |
+|                                         |
+|  def assoc[A,B,C](m: M[A], k: A => M[B],|
+|       h: B => M[C]) =                   |
+| (m >>= (k(_) >>= h)) == (m >>= k >>= h) |
+|                                         |
+\ Begone now! I want to enjoy my grass.   /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
-  <td style="border: none;">  
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancewithheart&theme=dark&layout=compact&langs_count=10&hide_title=true&hide=Java,CSS,JavaScript,Makefile,shell,HTML" />
-  </td>
-
-  <td style="border: none;">
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dancewithheart&count_private=true&show_icons=true&theme=dark&hide_title=true&disable_animations" />
-  </td>
-
-  </tr>
-</table>
+```
