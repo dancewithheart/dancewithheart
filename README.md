@@ -1,5 +1,7 @@
 ### Be the positive change you want to see in life :heart:
 
+My work as [lemastero](https://github.com/lemastero) (FP in Scala in ZIO ecosystem, experiments with formal verification in Agda, some OS work around blockchain, benchmarking).
+
  <td style="border: none;">  
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancewithheart&theme=dark&layout=compact&langs_count=10&hide_title=true&hide=Java,CSS,JavaScript,Makefile,shell,HTML" />
   </td>
