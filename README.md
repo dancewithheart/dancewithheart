@@ -1,14 +1,12 @@
 ### Be the positive change you want to see in life :heart:
 
-I develop tools:
+My projects:
 * [dancewithheart/intellij-unison](https://github.com/dancewithheart/intellij-unison) IntelliJ IDEA plugin for Unison language
 * [agda2scala](https://github.com/dancewithheart/agda2scala) Scala 2 and Scala 3 backends for Agda
 
-Mathematics around action categories:
-* Haskell encoding [category-actions](https://github.com/dancewithheart/category-actions)
-* Agda encoding [agda-category-actions](https://github.com/dancewithheart/agda-category-actions)
+I contribute to:
 
-Compilers:
+compilers:
 * https://github.com/scala/scala3/pull/25470
 
 Cardano blockchain:
@@ -26,6 +24,11 @@ Agda libraries:
 
 FP abstractions:
   * https://github.com/clayrat/idris-selective/pull/1
+
+Formal methods / research:
+* Haskell encoding [category-actions](https://github.com/dancewithheart/category-actions)
+* Agda encoding [agda-category-actions](https://github.com/dancewithheart/agda-category-actions)
+
 
 ## My work as [lemastero](https://github.com/lemastero)
 * [scala_typeclassopedia](https://github.com/dancewithheart/scala_typeclassopedia) wiki about FP abstractions in Scala
