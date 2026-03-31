@@ -7,6 +7,7 @@ My projects:
 I contribute to:
 
 compilers:
+* https://github.com/scala/scala3/pull/25662
 * https://github.com/scala/scala3/pull/25470
 * https://github.com/scala/scala3/issues/25162
 
