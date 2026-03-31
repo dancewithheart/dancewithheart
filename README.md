@@ -8,6 +8,7 @@ I contribute to:
 
 compilers:
 * https://github.com/scala/scala3/pull/25470
+* https://github.com/scala/scala3/issues/25162
 
 Cardano blockchain:
 * https://github.com/cardano-scaling/hydra/pull/2550
