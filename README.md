@@ -6,7 +6,7 @@ My projects:
 
 I contribute to:
 
-compilers:
+Scala3 compiler:
 * https://github.com/scala/scala3/pull/25662
 * https://github.com/scala/scala3/pull/25470
 * https://github.com/scala/scala3/issues/25162
@@ -26,10 +26,6 @@ Agda libraries:
 
 FP abstractions:
   * https://github.com/clayrat/idris-selective/pull/1
-
-Formal methods / research:
-* Haskell encoding [category-actions](https://github.com/dancewithheart/category-actions)
-* Agda encoding [agda-category-actions](https://github.com/dancewithheart/agda-category-actions)
 
 
 ## My work as [lemastero](https://github.com/lemastero)
