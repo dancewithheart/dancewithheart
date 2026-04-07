@@ -6,10 +6,13 @@ My projects:
 
 I contribute to:
 
-Scala3 compiler:
-* https://github.com/scala/scala3/pull/25662
-* https://github.com/scala/scala3/pull/25470
-* https://github.com/scala/scala3/issues/25162
+Compilers:
+* Scala3
+  * https://github.com/scala/scala3/pull/25662
+  * https://github.com/scala/scala3/pull/25470
+  * https://github.com/scala/scala3/issues/25162
+* Agda
+  * https://github.com/agda/agda/pull/8491 
 
 Cardano blockchain:
 * https://github.com/cardano-scaling/hydra/pull/2550
