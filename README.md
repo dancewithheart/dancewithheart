@@ -30,6 +30,10 @@ Agda libraries:
 FP abstractions:
   * https://github.com/clayrat/idris-selective/pull/1
 
+ZIO:
+  * https://github.com/zio/zio/pull/10618
+  * https://github.com/zio/zio/pull/10620
+
 
 ## My work as [lemastero](https://github.com/lemastero)
 * [scala_typeclassopedia](https://github.com/dancewithheart/scala_typeclassopedia) wiki about FP abstractions in Scala
