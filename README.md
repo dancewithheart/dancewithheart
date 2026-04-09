@@ -12,6 +12,7 @@ Compilers:
   * https://github.com/scala/scala3/pull/25470
   * https://github.com/scala/scala3/issues/25162
 * Agda
+  * https://github.com/agda/agda/pull/8493 
   * https://github.com/agda/agda/pull/8491 
 
 Cardano blockchain:
