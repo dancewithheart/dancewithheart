@@ -8,6 +8,7 @@ I contribute to:
 
 Compilers:
 * Scala3
+  * https://github.com/scala/scala3/pull/25765
   * https://github.com/scala/scala3/pull/25662
   * https://github.com/scala/scala3/pull/25470
   * https://github.com/scala/scala3/issues/25162
