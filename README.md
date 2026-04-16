@@ -33,6 +33,7 @@ FP abstractions:
   * https://github.com/clayrat/idris-selective/pull/1
 
 Scala libraries:
+  * https://github.com/scalacenter/sbt-dependency-submission/pull/347
   * https://github.com/scalacenter/sbt-dependency-submission/pull/346
   * https://github.com/zio/zio-protoquill/pull/739
   * https://github.com/sbt/sbt/pull/9086
