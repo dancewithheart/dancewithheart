@@ -1,7 +1,7 @@
 ### Be the positive change you want to see in life :heart:
 
 My projects:
-* [dancewithheart/intellij-unison](https://github.com/dancewithheart/intellij-unison) IntelliJ IDEA plugin for Unison language
+* [intellij-unison](https://github.com/dancewithheart/intellij-unison) IntelliJ IDEA plugin for Unison language
 * [agda2scala](https://github.com/dancewithheart/agda2scala) Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
 * [zio-scala3-quickstart.g8](https://github.com/dancewithheart/zio-scala3-quickstart.g8) sbt template for Scala with hardened security thanks to types safety from ZIO and GithubActions enforcing best practices
 
