@@ -18,6 +18,7 @@ Compilers:
   * https://github.com/agda/agda/pull/8491 (WIP)
 
 Haskell libraries:
+* https://github.com/MangoIV/cabal-audit/pull/73 (security) (WIP)
 * https://github.com/MangoIV/cabal-audit/pull/70 (security) (WIP)
 * https://github.com/input-output-hk/io-sim/pull/251 (distributed systems)
 * https://github.com/avieth/contra-tracer/pull/9 (tracing, FP abstractions)
