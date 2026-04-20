@@ -13,9 +13,10 @@ Compilers:
 
 Haskell libraries:
 * https://github.com/MangoIV/cabal-audit/pull/73 (security) (WIP), https://github.com/MangoIV/cabal-audit/pull/70 (security) (WIP)
+* https://github.com/haskell/security-advisories/pull/321
+* https://github.com/blackheaven/haskell-security-action/pull/8
 * https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/avieth/contra-tracer/pull/9
-* https://github.com/haskell/security-advisories/pull/321
 
 Cardano blockchain:
 * https://github.com/cardano-scaling/hydra/pull/2550, https://github.com/cardano-scaling/hydra/pull/2547
@@ -28,9 +29,9 @@ Agda libraries:
  * https://github.com/agda/agda-stdlib/pull/2965
 
 Scala libraries:
-  * https://github.com/scalacenter/sbt-dependency-submission/pull/347, https://github.com/scalacenter/sbt-dependency-submission/pull/346 (security)
+  * https://github.com/scalacenter/sbt-dependency-submission/pull/347, https://github.com/scalacenter/sbt-dependency-submission/pull/346
   * https://github.com/zio/zio-protoquill/pull/739
-  * https://github.com/sbt/sbt/pull/9086, https://github.com/sbt/sbt/pull/9088 (security)
+  * https://github.com/sbt/sbt/pull/9086, https://github.com/sbt/sbt/pull/9088
   * https://github.com/zio/zio/pull/10618, https://github.com/zio/zio/pull/10620
 
 Idris:
