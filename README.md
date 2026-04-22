@@ -8,11 +8,11 @@ My projects:
 I contribute to:
 
 Compilers:
-* https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25765 (WIP), https://github.com/scala/scala3/pull/25662 (WIP)
+* https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (WIP), https://github.com/scala/scala3/pull/25765 (WIP)
 * https://github.com/agda/agda/pull/8493 (WIP), https://github.com/agda/agda/pull/8491 (WIP)
 
 Haskell libraries:
-* https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/70
+* https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (WIP)
 * https://github.com/haskell/security-advisories/pull/321
 * https://github.com/blackheaven/haskell-security-action/pull/8
 * https://github.com/input-output-hk/io-sim/pull/251
