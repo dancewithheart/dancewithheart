@@ -34,6 +34,9 @@ Scala libraries:
   * https://github.com/sbt/sbt/pull/9086, https://github.com/sbt/sbt/pull/9088
   * https://github.com/zio/zio/pull/10618, https://github.com/zio/zio/pull/10620
 
+Rust:
+  * https://github.com/trifectatechfoundation/sudo-rs/pull/1565
+
 Idris:
   * https://github.com/clayrat/idris-selective/pull/1 (FP abstractions)
 
