@@ -13,7 +13,7 @@ Compilers:
 
 Haskell libraries:
 * https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (WIP)
-* https://github.com/haskell/security-advisories/pull/321
+* https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322 (WIP)
 * https://github.com/blackheaven/haskell-security-action/pull/8
 * https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/avieth/contra-tracer/pull/9
@@ -30,9 +30,9 @@ Agda libraries:
 
 Scala libraries:
   * https://github.com/scalacenter/sbt-dependency-submission/pull/347, https://github.com/scalacenter/sbt-dependency-submission/pull/346
-  * https://github.com/zio/zio-protoquill/pull/739
+  * https://github.com/zio/zio-protoquill/pull/739 (WIP)
   * https://github.com/sbt/sbt/pull/9086, https://github.com/sbt/sbt/pull/9088
-  * https://github.com/zio/zio/pull/10618, https://github.com/zio/zio/pull/10620
+  * https://github.com/zio/zio/pull/10618 (WIP), https://github.com/zio/zio/pull/10620
 
 Rust:
   * https://github.com/trifectatechfoundation/sudo-rs/pull/1565
