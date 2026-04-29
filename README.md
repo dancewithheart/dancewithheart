@@ -8,37 +8,37 @@ My projects:
 I contribute to:
 
 Compilers:
-* https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (WIP), https://github.com/scala/scala3/pull/25765 (WIP)
-* https://github.com/agda/agda/pull/8493 (WIP), https://github.com/agda/agda/pull/8491 (WIP)
+* (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (WIP), https://github.com/scala/scala3/pull/25765 (WIP)
+* (in Haskell) https://github.com/agda/agda/pull/8493 (WIP), https://github.com/agda/agda/pull/8491 (WIP)
 
-Haskell libraries:
+Haskell libraries (security, distributed systems):
 * https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (WIP)
 * https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322 (WIP)
 * https://github.com/blackheaven/haskell-security-action/pull/8
 * https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/avieth/contra-tracer/pull/9
 
-Cardano blockchain:
+Cardano blockchain (in Haskell):
 * https://github.com/cardano-scaling/hydra/pull/2550, https://github.com/cardano-scaling/hydra/pull/2547
 * https://github.com/IntersectMBO/cardano-base/pull/637
 * https://github.com/IntersectMBO/plutus/pull/7680 (WIP)
 * https://github.com/IntersectMBO/ouroboros-consensus/pull/1939 (WIP)
 
-Agda libraries:
+Agda libraries (formal methods, mathematical proofs):
  * https://github.com/agda/cubical/pull/1299
  * https://github.com/agda/agda-stdlib/pull/2965
 
-Scala libraries:
+Scala libraries (security, zio-ecosystem, tools I use):
   * https://github.com/scalacenter/sbt-dependency-submission/pull/347, https://github.com/scalacenter/sbt-dependency-submission/pull/346
   * https://github.com/zio/zio-protoquill/pull/739 (WIP)
   * https://github.com/sbt/sbt/pull/9086, https://github.com/sbt/sbt/pull/9088
   * https://github.com/zio/zio/pull/10618 (WIP), https://github.com/zio/zio/pull/10620
 
-Rust:
-  * https://github.com/trifectatechfoundation/sudo-rs/pull/1565
+Rust (security):
+  * https://github.com/trifectatechfoundation/sudo-rs/pull/1565 (awaits review)
 
-Idris:
-  * https://github.com/clayrat/idris-selective/pull/1 (FP abstractions)
+Idris (FP abstractions):
+  * https://github.com/clayrat/idris-selective/pull/1
 
 
 ## My work as [lemastero](https://github.com/lemastero)
