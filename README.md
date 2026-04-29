@@ -8,12 +8,12 @@ My projects:
 I contribute to:
 
 Compilers:
-* (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (WIP), https://github.com/scala/scala3/pull/25765 (WIP)
-* (in Haskell) https://github.com/agda/agda/pull/8493 (WIP), https://github.com/agda/agda/pull/8491 (WIP)
+* (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
+* (in Haskell) https://github.com/agda/agda/pull/8493 (awaits review), https://github.com/agda/agda/pull/8491 (awaits review)
 
 Haskell libraries (security, distributed systems):
-* https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (WIP)
-* https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322 (WIP)
+* https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (awaits review)
+* https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322 (awaits review)
 * https://github.com/blackheaven/haskell-security-action/pull/8
 * https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/avieth/contra-tracer/pull/9
@@ -30,7 +30,7 @@ Agda libraries (formal methods, mathematical proofs):
 
 Scala libraries (security, zio-ecosystem, tools I use):
   * https://github.com/scalacenter/sbt-dependency-submission/pull/347, https://github.com/scalacenter/sbt-dependency-submission/pull/346
-  * https://github.com/zio/zio-protoquill/pull/739 (WIP)
+  * https://github.com/zio/zio-protoquill/pull/739 (awaits review)
   * https://github.com/sbt/sbt/pull/9086, https://github.com/sbt/sbt/pull/9088
   * https://github.com/zio/zio/pull/10618 (WIP), https://github.com/zio/zio/pull/10620
 
