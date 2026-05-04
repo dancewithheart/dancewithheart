@@ -16,6 +16,7 @@ Haskell libraries (security, distributed systems):
 * https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (awaits review)
 * https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322 (awaits review)
 * https://github.com/blackheaven/haskell-security-action/pull/8
+* https://github.com/mongodb-haskell/mongodb/pull/161 (awaits review)
 * https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/avieth/contra-tracer/pull/9
 
