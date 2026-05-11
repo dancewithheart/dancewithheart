@@ -19,6 +19,8 @@ Haskell libraries (security, distributed systems):
 * https://github.com/mongodb-haskell/mongodb/pull/161 (awaits review)
 * https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/avieth/contra-tracer/pull/9
+* https://github.com/skogsbaer/HTF/pull/137
+* https://github.com/haskell-repa/repa/pull/32 (awaits review)
 
 Cardano blockchain (in Haskell):
 * https://github.com/cardano-scaling/hydra/pull/2550, https://github.com/cardano-scaling/hydra/pull/2547
