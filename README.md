@@ -13,6 +13,7 @@ Compilers:
 * (in Haskell) https://github.com/agda/agda/pull/8493 (awaits review), https://github.com/agda/agda/pull/8491 (awaits review)
 
 Haskell libraries (security, distributed systems):
+* https://github.com/kazu-yamamoto/crypton/pull/73 (awaits review)
 * https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (awaits review)
 * https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322
 * https://github.com/blackheaven/haskell-security-action/pull/8
