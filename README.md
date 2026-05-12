@@ -22,7 +22,7 @@ Haskell libraries (security, distributed systems):
 * https://github.com/avieth/contra-tracer/pull/9
 * https://github.com/skogsbaer/HTF/pull/137
 * https://github.com/haskell-repa/repa/pull/32 (awaits review)
-* https://github.com/kazu-yamamoto/unix-time/pull/68 (awaits review)
+* https://github.com/kazu-yamamoto/unix-time/pull/68
 
 Cardano blockchain (in Haskell):
 * https://github.com/cardano-scaling/hydra/pull/2550, https://github.com/cardano-scaling/hydra/pull/2547
