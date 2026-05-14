@@ -25,6 +25,7 @@ Haskell libraries (security, distributed systems):
 * https://github.com/haskell-repa/repa/pull/32 (awaits review)
 * https://github.com/kazu-yamamoto/unix-time/pull/68
 * https://github.com/well-typed/cborg/pull/378
+* https://github.com/protolude/protolude/pull/153 (awaits review)
 
 Cardano blockchain (in Haskell):
 * https://github.com/cardano-scaling/hydra/pull/2550, https://github.com/cardano-scaling/hydra/pull/2547
