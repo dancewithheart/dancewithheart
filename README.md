@@ -12,16 +12,15 @@ Compilers:
 * (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
 * (in Haskell) https://github.com/agda/agda/pull/8493 (awaits review), https://github.com/agda/agda/pull/8491 (awaits review)
 
-Haskell libraries (security, distributed systems):
+Haskell libraries (security, cryptography):
 * https://github.com/kazu-yamamoto/crypton/pull/73 (awaits review)
 * https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (awaits review)
 * https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322
 * https://github.com/blackheaven/haskell-security-action/pull/8
 * https://github.com/mongodb-haskell/mongodb/pull/161 (awaits review)
 * https://github.com/l29ah/pontarius-xmpp/pull/5 (awaits review)
-* https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/avieth/contra-tracer/pull/9
-* https://github.com/skogsbaer/HTF/pull/137
+* https://github.com/skogsbaer/HTF/pull/137, https://github.com/skogsbaer/HTF/pull/138
 * https://github.com/haskell-repa/repa/pull/32 (awaits review)
 * https://github.com/kazu-yamamoto/unix-time/pull/68
 * https://github.com/well-typed/cborg/pull/378
@@ -30,6 +29,7 @@ Haskell libraries (security, distributed systems):
 Cardano blockchain (in Haskell):
 * https://github.com/cardano-scaling/hydra/pull/2550, https://github.com/cardano-scaling/hydra/pull/2547
 * https://github.com/IntersectMBO/cardano-base/pull/637
+* https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/IntersectMBO/plutus/pull/7680 (WIP)
 * https://github.com/IntersectMBO/ouroboros-consensus/pull/1939 (WIP)
 
