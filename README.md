@@ -8,10 +8,6 @@ My projects:
 
 I contribute to:
 
-Compilers:
-* (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
-* (in Haskell) https://github.com/agda/agda/pull/8493 (awaits review), https://github.com/agda/agda/pull/8491 (awaits review)
-
 Haskell libraries (security, cryptography):
 * https://github.com/kazu-yamamoto/crypton/pull/73, https://github.com/kazu-yamamoto/crypton/pull/74 (awaits review)
 * https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (awaits review)
@@ -34,6 +30,10 @@ Cardano blockchain (in Haskell):
 * https://github.com/IntersectMBO/ouroboros-network/pull/5372 (awaits review), https://github.com/IntersectMBO/ouroboros-network/pull/5373 (awaits review)
 * https://github.com/IntersectMBO/ouroboros-consensus/pull/1939 (WIP), https://github.com/IntersectMBO/ouroboros-consensus/pull/2042 (awaits review)
 
+Compilers:
+* (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
+* (in Haskell) https://github.com/agda/agda/pull/8493 (awaits review), https://github.com/agda/agda/pull/8491 (awaits review)Thank you for maintaining, review and patience with my first cryptography adjacent PR :bow: 
+
 Agda libraries (formal methods, mathematical proofs):
  * https://github.com/agda/cubical/pull/1299
  * https://github.com/agda/agda-stdlib/pull/2965
@@ -46,6 +46,7 @@ Scala libraries (security, zio-ecosystem, tools I use):
 
 Rust (security):
   * https://github.com/trifectatechfoundation/sudo-rs/pull/1565 (awaits review)
+  * https://github.com/tlepoint/fhe.rs/pull/375 (awaits review)
 
 Idris (FP abstractions):
   * https://github.com/clayrat/idris-selective/pull/1
