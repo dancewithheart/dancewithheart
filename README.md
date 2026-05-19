@@ -6,10 +6,11 @@ My projects:
 * [agda2scala](https://github.com/dancewithheart/agda2scala) WIP Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
 * [zio-scala3-quickstart.g8](https://github.com/dancewithheart/zio-scala3-quickstart.g8) sbt template for Scala with hardened security thanks to types safety from ZIO and GithubActions enforcing best practices
 
-I contribute to:
+My open source contributions:
 
-Haskell libraries (security, cryptography):
+Haskell libraries (supply chain security, vulnerability reporting, cryptography):
 * https://github.com/kazu-yamamoto/crypton/pull/73, https://github.com/kazu-yamamoto/crypton/pull/74 (awaits review)
+* https://github.com/haskell-cryptography/botan/pull/130 (awaits review)
 * https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (awaits review)
 * https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322
 * https://github.com/blackheaven/haskell-security-action/pull/8
@@ -22,13 +23,14 @@ Haskell libraries (security, cryptography):
 * https://github.com/well-typed/cborg/pull/378
 * https://github.com/protolude/protolude/pull/153 (awaits review)
 
-Cardano blockchain (in Haskell):
+Cardano blockchain (decentralized, reliable networking and internet infrastructure in `Haskell` and `Rust`):
 * https://github.com/cardano-scaling/hydra/pull/2550, https://github.com/cardano-scaling/hydra/pull/2547
 * https://github.com/IntersectMBO/cardano-base/pull/637, https://github.com/IntersectMBO/cardano-base/pull/656, https://github.com/IntersectMBO/cardano-base/pull/657
 * https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/IntersectMBO/plutus/pull/7680 (WIP)
 * https://github.com/IntersectMBO/ouroboros-network/pull/5372 (awaits review)
 * https://github.com/IntersectMBO/ouroboros-consensus/pull/1939 (WIP), https://github.com/IntersectMBO/ouroboros-consensus/pull/2042 (awaits review)
+* https://github.com/aiken-lang/aiken/pull/1324 (awaits review)
 
 Compilers:
 * (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
@@ -44,9 +46,10 @@ Scala libraries (security, zio-ecosystem, tools I use):
   * https://github.com/sbt/sbt/pull/9086, https://github.com/sbt/sbt/pull/9088
   * https://github.com/zio/zio/pull/10618 (WIP), https://github.com/zio/zio/pull/10620
 
-Rust (security):
+Rust (cryptography, zero-knowledge, privacy, Linux tools in memory safe languages):
   * https://github.com/trifectatechfoundation/sudo-rs/pull/1565 (awaits review)
   * https://github.com/tlepoint/fhe.rs/pull/375 (awaits review)
+  * https://github.com/tlepoint/fhe.rs/pull/376 (awaits review)
 
 Idris (FP abstractions):
   * https://github.com/clayrat/idris-selective/pull/1
