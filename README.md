@@ -32,7 +32,7 @@ Cardano blockchain (in Haskell):
 
 Compilers:
 * (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
-* (in Haskell) https://github.com/agda/agda/pull/8493 (awaits review), https://github.com/agda/agda/pull/8491 (awaits review)Thank you for maintaining, review and patience with my first cryptography adjacent PR :bow: 
+* (in Haskell) https://github.com/agda/agda/pull/8493 (awaits review), https://github.com/agda/agda/pull/8491 (awaits review)
 
 Agda libraries (formal methods, mathematical proofs):
  * https://github.com/agda/cubical/pull/1299
