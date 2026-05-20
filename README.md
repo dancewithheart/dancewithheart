@@ -28,7 +28,7 @@ Cardano blockchain (decentralized, reliable networking and internet infrastructu
 * https://github.com/IntersectMBO/cardano-base/pull/637, https://github.com/IntersectMBO/cardano-base/pull/656, https://github.com/IntersectMBO/cardano-base/pull/657
 * https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/IntersectMBO/plutus/pull/7680 (WIP)
-* https://github.com/IntersectMBO/ouroboros-network/pull/5372 (awaits review)
+* https://github.com/IntersectMBO/ouroboros-network/pull/5372
 * https://github.com/IntersectMBO/ouroboros-consensus/pull/1939 (WIP), https://github.com/IntersectMBO/ouroboros-consensus/pull/2042 (awaits review)
 * https://github.com/aiken-lang/aiken/pull/1324 (awaits review)
 
