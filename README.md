@@ -10,7 +10,7 @@ My open source contributions:
 
 Haskell libraries (supply chain security, vulnerability reporting, cryptography):
 * https://github.com/kazu-yamamoto/crypton/pull/73, https://github.com/kazu-yamamoto/crypton/pull/74 (awaits review)
-* https://github.com/haskell-cryptography/botan/pull/132 (awaits review), https://github.com/haskell-cryptography/botan/pull/133 (awaits review), https://github.com/haskell-cryptography/botan/pull/134 (awaits review)
+* https://github.com/haskell-cryptography/botan/pull/130, https://github.com/haskell-cryptography/botan/pull/131, https://github.com/haskell-cryptography/botan/pull/133 (awaits review), https://github.com/haskell-cryptography/botan/pull/134 (awaits review)
 * https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (awaits review)
 * https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322
 * https://github.com/blackheaven/haskell-security-action/pull/8
