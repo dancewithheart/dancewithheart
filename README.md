@@ -10,8 +10,8 @@ My open source contributions:
 
 Haskell libraries (supply chain security, vulnerability reporting, cryptography):
 * https://github.com/kazu-yamamoto/crypton/pull/73, https://github.com/kazu-yamamoto/crypton/pull/74 (awaits review)
-* https://github.com/haskell-cryptography/botan/pull/130, https://github.com/haskell-cryptography/botan/pull/131, https://github.com/haskell-cryptography/botan/pull/133 (awaits review), https://github.com/haskell-cryptography/botan/pull/134 (awaits review)
-* https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (awaits review)
+* https://github.com/haskell-cryptography/botan/pull/130, https://github.com/haskell-cryptography/botan/pull/131, https://github.com/haskell-cryptography/botan/pull/132 (reused by [135](https://github.com/haskell-cryptography/botan/pull/135)), https://github.com/haskell-cryptography/botan/pull/133 (awaits review), https://github.com/haskell-cryptography/botan/pull/134 (awaits review)
+* https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (WIP)
 * https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322
 * https://github.com/blackheaven/haskell-security-action/pull/8
 * https://github.com/mongodb-haskell/mongodb/pull/161 (awaits review)
@@ -23,14 +23,13 @@ Haskell libraries (supply chain security, vulnerability reporting, cryptography)
 * https://github.com/well-typed/cborg/pull/378
 * https://github.com/protolude/protolude/pull/153 (awaits review)
 
-Cardano blockchain (decentralized, reliable networking and internet infrastructure in `Haskell` and `Rust`):
+Cardano blockchain (decentralized, reliable networking and internet infrastructure in `Haskell`):
 * https://github.com/cardano-scaling/hydra/pull/2550, https://github.com/cardano-scaling/hydra/pull/2547
 * https://github.com/IntersectMBO/cardano-base/pull/637, https://github.com/IntersectMBO/cardano-base/pull/656, https://github.com/IntersectMBO/cardano-base/pull/657
 * https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/IntersectMBO/plutus/pull/7680 (WIP)
 * https://github.com/IntersectMBO/ouroboros-network/pull/5372
 * https://github.com/IntersectMBO/ouroboros-consensus/pull/1939 (WIP), https://github.com/IntersectMBO/ouroboros-consensus/pull/2042 (awaits review)
-* https://github.com/aiken-lang/aiken/pull/1324 (awaits review)
 
 Compilers:
 * (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
@@ -46,14 +45,15 @@ Scala libraries (security, zio-ecosystem, tools I use):
   * https://github.com/sbt/sbt/pull/9086, https://github.com/sbt/sbt/pull/9088
   * https://github.com/zio/zio/pull/10618 (WIP), https://github.com/zio/zio/pull/10620
 
-Rust (cryptography, zero-knowledge, privacy, Linux tools in memory safe languages):
+Rust (cryptography, zero-knowledge, memory safe Linux tools):
   * https://github.com/trifectatechfoundation/sudo-rs/pull/1565 (awaits review)
   * https://github.com/tlepoint/fhe.rs/pull/375 (awaits review)
-  * https://github.com/tlepoint/fhe.rs/pull/376 (awaits review)
+  * https://github.com/tlepoint/fhe.rs/pull/376 (WIP)
+  * https://github.com/aiken-lang/aiken/pull/1324 (awaits review)
+  * https://github.com/privacy-ethereum/halo2curves/pull/221 (awaits review)
 
 Idris (FP abstractions):
   * https://github.com/clayrat/idris-selective/pull/1
-
 
 ## My work as [lemastero](https://github.com/lemastero)
 * [scala_typeclassopedia](https://github.com/dancewithheart/scala_typeclassopedia) wiki about FP abstractions in Scala
