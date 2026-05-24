@@ -23,13 +23,14 @@ Haskell libraries (supply chain security, vulnerability reporting, cryptography)
 * https://github.com/well-typed/cborg/pull/378
 * https://github.com/protolude/protolude/pull/153 (awaits review)
 
-Cardano blockchain (decentralized, reliable networking and internet infrastructure in `Haskell`):
+Cardano blockchain (decentralized, reliable networking and internet infrastructure in `Haskell` and `Rust`):
 * https://github.com/cardano-scaling/hydra/pull/2550, https://github.com/cardano-scaling/hydra/pull/2547
 * https://github.com/IntersectMBO/cardano-base/pull/637, https://github.com/IntersectMBO/cardano-base/pull/656, https://github.com/IntersectMBO/cardano-base/pull/657
 * https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/IntersectMBO/plutus/pull/7680 (WIP)
 * https://github.com/IntersectMBO/ouroboros-network/pull/5372
 * https://github.com/IntersectMBO/ouroboros-consensus/pull/1939 (WIP), https://github.com/IntersectMBO/ouroboros-consensus/pull/2042 (awaits review)
+* https://github.com/midnightntwrk/midnight-ledger/pull/533 (awaits review)
 
 Compilers:
 * (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
@@ -51,6 +52,7 @@ Rust (cryptography, zero-knowledge, memory safe Linux tools):
   * https://github.com/tlepoint/fhe.rs/pull/376 (WIP)
   * https://github.com/aiken-lang/aiken/pull/1324 (awaits review)
   * https://github.com/privacy-ethereum/halo2curves/pull/221 (awaits review)
+  * https://github.com/privacy-ethereum/halo2curves/pull/222 (WIP)
 
 Idris (FP abstractions):
   * https://github.com/clayrat/idris-selective/pull/1
