@@ -30,7 +30,7 @@ Cardano blockchain (decentralized, reliable networking and internet infrastructu
 * https://github.com/IntersectMBO/plutus/pull/7680 (WIP)
 * https://github.com/IntersectMBO/ouroboros-network/pull/5372
 * https://github.com/IntersectMBO/ouroboros-consensus/pull/1939 (WIP), https://github.com/IntersectMBO/ouroboros-consensus/pull/2042 (awaits review)
-* https://github.com/midnightntwrk/midnight-ledger/pull/533 (awaits review)
+* https://github.com/midnightntwrk/midnight-ledger/pull/533
 
 Compilers:
 * (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
