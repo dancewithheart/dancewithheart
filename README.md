@@ -23,7 +23,7 @@ Haskell libraries (supply chain security, vulnerability reporting, cryptography)
 * https://github.com/well-typed/cborg/pull/378
 * https://github.com/protolude/protolude/pull/153 (awaits review)
 
-Cardano, Midnight blockchains (decentralized, reliable networking and internet infrastructure in `Haskell` and `Rust`):
+Cardano, Midnight blockchains (decentralized, reliable networking, in `Haskell` and `Rust`):
 * https://github.com/cardano-scaling/hydra/pull/2550, https://github.com/cardano-scaling/hydra/pull/2547
 * https://github.com/IntersectMBO/cardano-base/pull/637, https://github.com/IntersectMBO/cardano-base/pull/656, https://github.com/IntersectMBO/cardano-base/pull/657
 * https://github.com/input-output-hk/io-sim/pull/251
@@ -32,6 +32,10 @@ Cardano, Midnight blockchains (decentralized, reliable networking and internet i
 * https://github.com/midnightntwrk/midnight-ledger/pull/533
 * https://github.com/IntersectMBO/plutus/pull/7680 (WIP)
 
+Cardano ecosystem:
+* https://github.com/txpipe/pallas/pull/780 (awaits review)
+* https://github.com/aiken-lang/aiken/pull/1324 (awaits review)
+    
 Compilers:
 * (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
 * (in Haskell) https://github.com/agda/agda/pull/8493 (awaits review), https://github.com/agda/agda/pull/8491 (awaits review)
@@ -45,12 +49,11 @@ Scala libraries (security, zio-ecosystem, tools I use):
   * https://github.com/zio/zio-protoquill/pull/739 (awaits review)
   * https://github.com/sbt/sbt/pull/9086, https://github.com/sbt/sbt/pull/9088
   * https://github.com/zio/zio/pull/10618 (WIP), https://github.com/zio/zio/pull/10620
-
-Rust (cryptography, zero-knowledge, memory safe Linux tools):
+  
+Rust (cryptography: elliptic curves zero-knowledge, MPC, FHE, memory safe tools):
   * https://github.com/trifectatechfoundation/sudo-rs/pull/1565 (awaits review)
   * https://github.com/tlepoint/fhe.rs/pull/375 (awaits review)
   * https://github.com/tlepoint/fhe.rs/pull/376 (WIP)
-  * https://github.com/aiken-lang/aiken/pull/1324 (awaits review)
   * https://github.com/privacy-ethereum/halo2curves/pull/221 (awaits review)
   * https://github.com/privacy-ethereum/halo2curves/pull/222 (WIP)
 
