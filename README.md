@@ -38,7 +38,7 @@ Cardano ecosystem:
     
 Compilers (in `Scala` and `Haskell`):
 * https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
-* https://github.com/agda/agda/pull/8493 (awaits review), https://github.com/agda/agda/pull/8491 (awaits review)
+* https://github.com/agda/agda/pull/8491, https://github.com/agda/agda/pull/8493 (in review)
 
 `Agda` libraries (formal methods, mathematical proofs):
  * https://github.com/agda/cubical/pull/1299
