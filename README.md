@@ -36,11 +36,11 @@ Cardano ecosystem:
 * https://github.com/txpipe/pallas/pull/780 (awaits review)
 * https://github.com/aiken-lang/aiken/pull/1324 (awaits review)
     
-Compilers:
-* (in Scala) https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
-* (in Haskell) https://github.com/agda/agda/pull/8493 (awaits review), https://github.com/agda/agda/pull/8491 (awaits review)
+Compilers (in `Scala` and `Haskell`):
+* https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
+* https://github.com/agda/agda/pull/8493 (awaits review), https://github.com/agda/agda/pull/8491 (awaits review)
 
-Agda libraries (formal methods, mathematical proofs):
+`Agda` libraries (formal methods, mathematical proofs):
  * https://github.com/agda/cubical/pull/1299
  * https://github.com/agda/agda-stdlib/pull/2965
 
@@ -52,10 +52,8 @@ Scala libraries (security, zio-ecosystem, tools I use):
   
 Rust (cryptography: elliptic curves zero-knowledge, MPC, FHE, memory safe tools):
   * https://github.com/trifectatechfoundation/sudo-rs/pull/1565 (awaits review)
-  * https://github.com/tlepoint/fhe.rs/pull/375 (awaits review)
-  * https://github.com/tlepoint/fhe.rs/pull/376 (WIP)
-  * https://github.com/privacy-ethereum/halo2curves/pull/221 (awaits review)
-  * https://github.com/privacy-ethereum/halo2curves/pull/222 (WIP)
+  * https://github.com/tlepoint/fhe.rs/pull/375 (awaits review), https://github.com/tlepoint/fhe.rs/pull/376 (WIP)
+  * https://github.com/privacy-ethereum/halo2curves/pull/221 (awaits review), https://github.com/privacy-ethereum/halo2curves/pull/222 (WIP)
 
 Idris (FP abstractions):
   * https://github.com/clayrat/idris-selective/pull/1
