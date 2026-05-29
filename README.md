@@ -22,6 +22,7 @@ Haskell libraries (supply chain security, vulnerability reporting, cryptography)
 * https://github.com/kazu-yamamoto/unix-time/pull/68
 * https://github.com/well-typed/cborg/pull/378
 * https://github.com/protolude/protolude/pull/153 (awaits review)
+* https://github.com/Copilot-Language/copilot/pull/737 (awaits review)
 
 Cardano, Midnight blockchains (decentralized, reliable networking, in `Haskell` and `Rust`):
 * https://github.com/cardano-scaling/hydra/pull/2550, https://github.com/cardano-scaling/hydra/pull/2547
