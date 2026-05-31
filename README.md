@@ -82,7 +82,7 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * [scala_typeclassopedia](https://github.com/dancewithheart/scala_typeclassopedia) wiki about FP abstractions in Scala
 * abstraction for trifunctors: [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), 
 * Purescript: [purescript-supermonad](https://github.com/lemastero/purescript-supermonad)
-* exploring differen encodings of category theroy [Triglav](https://github.com/lemastero/Triglav), applied category theory: [svarog](https://github.com/lemastero/svarog), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
+* exploring differen encodings of category theroy [Scala - Triglav](https://github.com/lemastero/Triglav), [Idris-Trifunctors](https://github.com/dancewithheart/Idris-Trifunctors), [Haskell - trifunctors](https://github.com/lemastero/trifunctors), applied category theory: [svarog](https://github.com/lemastero/svarog), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
 * Racket/Scheme test frameworks: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero), [akeep/rough-draft](https://github.com/akeep/rough-draft)
   
 # My projects:
