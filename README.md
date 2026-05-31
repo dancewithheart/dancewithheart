@@ -8,7 +8,7 @@
 
 dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 
-* [cabal-plan-submit](https://github.com/dancewithheart/cabal-plan-submit) submit Haskell dependencies (from cabal plan) to Gitub dependency graph submission, enrich SARIF output from cabal-audit, explain dependency paths (direct, indirect dependencies), find deprecated dependencies
+* [cabal-plan-submit](https://github.com/dancewithheart/cabal-plan-submit) Haskell dependency intelligence: GitHub Dependency Submission, cabal-audit SARIF enrichment, dependency paths, direct/transitive classification, deprecated dependency detection
 * https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (WIP)
 * https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322
 * https://github.com/blackheaven/haskell-security-action/pull/8
@@ -30,7 +30,7 @@ removing deprecated crypto, adding test vectors/docs, modern crypto primitives, 
 * https://github.com/tlepoint/fhe.rs/pull/375 (awaits review), https://github.com/tlepoint/fhe.rs/pull/376 (WIP)
 * https://github.com/privacy-ethereum/halo2curves/pull/221 (awaits review), https://github.com/privacy-ethereum/halo2curves/pull/222 (WIP)
 
-## Cardano / Midnight / resilient distributed systems
+## Cardano / Midnight / resilient blockchain infrastructure
 
 secure decentralized infrastructure, reliable networking, ledger tooling, blockchain security
 
@@ -83,16 +83,10 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * [zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero), [zio-prelude](https://github.com/zio/zio-prelude/pulls?q=author%3Alemastero), [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero), [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero), [zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero), [zio-config](https://github.com/zio/zio-config/pulls?q=author%3Alemastero)
 * [scala_typeclassopedia](https://github.com/dancewithheart/scala_typeclassopedia) wiki about FP abstractions in Scala
 * abstraction for trifunctors: [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors),
-* [category-actions](https://github.com/dancewithheart/category-actions) encodeing of FP abstractions: Functor, Monad, Comonad and their laws in uniform way as actions on category
+* [category-actions](https://github.com/dancewithheart/category-actions) encodings of FP abstractions: Functor, Monad, Comonad and their laws in uniform way as actions on category
 * Purescript: [purescript-supermonad](https://github.com/lemastero/purescript-supermonad)
-* exploring differen encodings of category theroy [Scala - Triglav](https://github.com/lemastero/Triglav), [Idris-Trifunctors](https://github.com/dancewithheart/Idris-Trifunctors), [Haskell - trifunctors](https://github.com/lemastero/trifunctors), applied category theory: [svarog](https://github.com/lemastero/svarog), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
+* exploring different encodings of category theory [Scala - Triglav](https://github.com/lemastero/Triglav), [Idris-Trifunctors](https://github.com/dancewithheart/Idris-Trifunctors), [Haskell - trifunctors](https://github.com/lemastero/trifunctors), applied category theory: [svarog](https://github.com/lemastero/svarog), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
 * Racket/Scheme test frameworks: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero), [akeep/rough-draft](https://github.com/akeep/rough-draft)
-  
-# My projects:
-* [cabal-plan-submit](https://github.com/dancewithheart/cabal-plan-submit) submit Haskell dependencies (from cabal plan) to Gitub dependency graph submission
-* [intellij-unison](https://github.com/dancewithheart/intellij-unison) WIP IntelliJ IDEA plugin for Unison language
-* [agda2scala](https://github.com/dancewithheart/agda2scala) WIP Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
-* [modern-cryptography-kata](https://github.com/dancewithheart/modern-cryptography-kata)
 
 **Talks**:
 * Why functional programming and category theory strongly matters, 2019, [slides](https://www.slideshare.net/PiotrParadziski/why-functional-programming-and-category-theory-strongly-matters) 
@@ -102,4 +96,4 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 **Study gruops**:  
 * 2023 - Agda - based on [PLFA](https://plfa.github.io/)
 * 2022 - HoTT/UF in Agda - based on [Introduction to Univalent Foundations of Mathematics with Agda - Martín Escardó](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/)
-* 2020-2021 - Aplied Category Theory - based on 7Sketches and Haskell functional pearls, [schedule](https://github.com/lemastero/applied-category-theory-reading-club/wiki), [attempts to encode in Idris](https://github.com/lemastero/Idris-Applied-Category-Theory)
+* 2020-2021 - Applied Category Theory - based on 7Sketches and Haskell functional pearls, [schedule](https://github.com/lemastero/applied-category-theory-reading-club/wiki), [attempts to encode in Idris](https://github.com/lemastero/Idris-Applied-Category-Theory)
