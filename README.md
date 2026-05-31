@@ -100,14 +100,3 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * 2023 - Agda - based on [PLFA](https://plfa.github.io/)
 * 2022 - HoTT/UF in Agda - based on [Introduction to Univalent Foundations of Mathematics with Agda - Martín Escardó](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/)
 * 2020-2021 - Aplied Category Theory - based on 7Sketches and Haskell functional pearls, [schedule](https://github.com/lemastero/applied-category-theory-reading-club/wiki), [attempts to encode in Idris](https://github.com/lemastero/Idris-Applied-Category-Theory)
-
-## Stats
-
- <td style="border: none;">  
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancewithheart&theme=dark&layout=compact&langs_count=10&hide_title=true&hide=Java,CSS,JavaScript,Makefile,shell,HTML" />
-  </td>
-  <td style="border: none;">
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dancewithheart&count_private=true&show_icons=true&theme=dark&hide_title=true&disable_animations" />
-  </td>
-  </tr>
-</table>
