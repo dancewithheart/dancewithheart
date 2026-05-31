@@ -34,6 +34,7 @@ removing deprecated crypto, adding test vectors/docs, modern crypto primitives, 
 
 secure decentralized infrastructure, reliable networking, ledger tooling, blockchain security
 
+* [modern-cryptography-kata](https://github.com/dancewithheart/modern-cryptography-kata) modern cryptography used in Cardano and Midnight as executable demos with explicit invariants as property tests, and known exploitation angles as unit tests, addressing the problem of high complexity of research based blockchains
 * https://github.com/cardano-scaling/hydra/pull/2550, https://github.com/cardano-scaling/hydra/pull/2547
 * https://github.com/IntersectMBO/cardano-base/pull/637, https://github.com/IntersectMBO/cardano-base/pull/656, https://github.com/IntersectMBO/cardano-base/pull/657
 * https://github.com/input-output-hk/io-sim/pull/251
@@ -65,10 +66,11 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * [agda-verified-fp-algorithms](https://github.com/lemastero/agda-verified-fp-algos) WIP translation of [Software Foundations vol 3 : Verified Functional algorithms](https://softwarefoundations.cis.upenn.edu/) to Agda
 * Homotopy Type Theory in Agda - [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround/pulls?q=author%3Alemastero)
 * [https://steshaw.org/plt/](https://github.com/steshaw/plt/pulls?q=author%3Alemastero), [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography/issues?q=author%3Alemastero)
-
+* [intellij-unison](https://github.com/dancewithheart/intellij-unison) WIP IntelliJ IDEA plugin for Unison language
 
 ## Typed FP ecosystem / engineering foundations
 
+* [zio-scala3-quickstart.g8](https://github.com/dancewithheart/zio-scala3-quickstart.g8) sbt template for Scala with hardened security thanks to types safety from ZIO and GithubActions enforcing best practices
 * [ekmett/profunctors](https://github.com/ekmett/profunctors/pulls?q=author%3Alemastero)
 * [Scalaz](https://github.com/scalaz/scalaz/pulls?q=author%3Alemastero): [day convolution](https://github.com/scalaz/scalaz/pull/2020), [density commonad](https://github.com/scalaz/scalaz/pull/2029), [laws for strong profunctor](https://github.com/scalaz/scalaz/pull/2028)
 * [cats](https://github.com/typelevel/cats/pulls?q=author%3Alemastero): [laws for strong profunctor](https://github.com/typelevel/cats/pull/2640)
@@ -80,7 +82,8 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * https://github.com/clayrat/idris-selective/pull/1
 * [zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero), [zio-prelude](https://github.com/zio/zio-prelude/pulls?q=author%3Alemastero), [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero), [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero), [zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero), [zio-config](https://github.com/zio/zio-config/pulls?q=author%3Alemastero)
 * [scala_typeclassopedia](https://github.com/dancewithheart/scala_typeclassopedia) wiki about FP abstractions in Scala
-* abstraction for trifunctors: [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), 
+* abstraction for trifunctors: [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors),
+* [category-actions](https://github.com/dancewithheart/category-actions) encodeing of FP abstractions: Functor, Monad, Comonad and their laws in uniform way as actions on category
 * Purescript: [purescript-supermonad](https://github.com/lemastero/purescript-supermonad)
 * exploring differen encodings of category theroy [Scala - Triglav](https://github.com/lemastero/Triglav), [Idris-Trifunctors](https://github.com/dancewithheart/Idris-Trifunctors), [Haskell - trifunctors](https://github.com/lemastero/trifunctors), applied category theory: [svarog](https://github.com/lemastero/svarog), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
 * Racket/Scheme test frameworks: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero), [akeep/rough-draft](https://github.com/akeep/rough-draft)
@@ -89,7 +92,7 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * [cabal-plan-submit](https://github.com/dancewithheart/cabal-plan-submit) submit Haskell dependencies (from cabal plan) to Gitub dependency graph submission
 * [intellij-unison](https://github.com/dancewithheart/intellij-unison) WIP IntelliJ IDEA plugin for Unison language
 * [agda2scala](https://github.com/dancewithheart/agda2scala) WIP Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
-* [zio-scala3-quickstart.g8](https://github.com/dancewithheart/zio-scala3-quickstart.g8) sbt template for Scala with hardened security thanks to types safety from ZIO and GithubActions enforcing best practices
+* [modern-cryptography-kata](https://github.com/dancewithheart/modern-cryptography-kata)
 
 **Talks**:
 * Why functional programming and category theory strongly matters, 2019, [slides](https://www.slideshare.net/PiotrParadziski/why-functional-programming-and-category-theory-strongly-matters) 
