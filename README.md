@@ -16,6 +16,7 @@ dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 * https://github.com/skogsbaer/HTF/pull/137, https://github.com/skogsbaer/HTF/pull/138
 * https://github.com/haskell-repa/repa/pull/32 (awaits review)
 * https://github.com/protolude/protolude/pull/153 (awaits review)
+* https://github.com/haskell-hvr/cabal-plan/issues/109 (awaits review)
 
 ## Cryptographic infrastructure modernization
 
