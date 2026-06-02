@@ -10,7 +10,7 @@ dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 
 * [cabal-plan-submit](https://github.com/dancewithheart/cabal-plan-submit) Haskell dependency intelligence: GitHub Dependency Submission, cabal-audit SARIF enrichment, dependency paths, direct/transitive classification, deprecated dependency detection
 * https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (WIP)
-* https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322
+* https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322, https://github.com/haskell/security-advisories/pull/331
 * https://github.com/blackheaven/haskell-security-action/pull/8
 * https://github.com/scalacenter/sbt-dependency-submission/pull/347, https://github.com/scalacenter/sbt-dependency-submission/pull/346
 * https://github.com/skogsbaer/HTF/pull/137, https://github.com/skogsbaer/HTF/pull/138
