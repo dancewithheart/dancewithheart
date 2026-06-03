@@ -13,10 +13,11 @@ dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 * https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322, https://github.com/haskell/security-advisories/pull/331
 * https://github.com/blackheaven/haskell-security-action/pull/8
 * https://github.com/scalacenter/sbt-dependency-submission/pull/347, https://github.com/scalacenter/sbt-dependency-submission/pull/346
+* https://github.com/TristanCacqueray/cabal-audit/pull/1
 * https://github.com/skogsbaer/HTF/pull/137, https://github.com/skogsbaer/HTF/pull/138
 * https://github.com/haskell-repa/repa/pull/32 (awaits review)
 * https://github.com/protolude/protolude/pull/153 (awaits review)
-* https://github.com/haskell-hvr/cabal-plan/issues/109 (awaits review)
+* https://github.com/fizruk/http-api-data/pull/161 (awaits review)
 
 ## Cryptographic infrastructure modernization
 
@@ -83,10 +84,10 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * https://github.com/clayrat/idris-selective/pull/1
 * [zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero), [zio-prelude](https://github.com/zio/zio-prelude/pulls?q=author%3Alemastero), [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero), [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero), [zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero), [zio-config](https://github.com/zio/zio-config/pulls?q=author%3Alemastero)
 * [scala_typeclassopedia](https://github.com/dancewithheart/scala_typeclassopedia) wiki about FP abstractions in Scala
-* abstraction for trifunctors: [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors),
 * [category-actions](https://github.com/dancewithheart/category-actions) encodings of FP abstractions: Functor, Monad, Comonad and their laws in uniform way as actions on category
 * Purescript: [purescript-supermonad](https://github.com/lemastero/purescript-supermonad)
-* exploring different encodings of category theory [Scala - Triglav](https://github.com/lemastero/Triglav), [Idris-Trifunctors](https://github.com/dancewithheart/Idris-Trifunctors), [Haskell - trifunctors](https://github.com/lemastero/trifunctors), applied category theory: [svarog](https://github.com/lemastero/svarog), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
+* exploration abstraction for trifunctors: [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), [Scala - Triglav](https://github.com/lemastero/Triglav), [Haskell - trifunctors](https://github.com/lemastero/trifunctors)
+* exploring different encodings of category theory, applied category theory: [svarog](https://github.com/lemastero/svarog), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
 * Racket/Scheme test frameworks: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero), [akeep/rough-draft](https://github.com/akeep/rough-draft)
 
 **Talks**:
