@@ -54,7 +54,7 @@ secure decentralized infrastructure, reliable networking, ledger tooling, blockc
 verification, correctness, compiler tooling, proof-to-code pipelines
 
 * https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25662 (awaits review), https://github.com/scala/scala3/pull/25765 (WIP)
-* [Agda](https://github.com/agda/agda/pulls?q=author%3Alemastero), https://github.com/agda/agda/pull/8491, https://github.com/agda/agda/pull/8493 (in review)
+* [Agda](https://github.com/agda/agda/pulls?q=author%3Alemastero), https://github.com/agda/agda/pull/8491, https://github.com/agda/agda/pull/8493
 * https://github.com/agda/cubical/pull/1299
 * [agda-stdlib](https://github.com/agda/agda-stdlib/pulls?q=is%3Apr+author%3Alemastero), https://github.com/agda/agda-stdlib/pull/2965
 * https://github.com/Copilot-Language/copilot/pull/737 (awaits review)
