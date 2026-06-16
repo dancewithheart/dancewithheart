@@ -80,7 +80,7 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * https://github.com/zio/zio-protoquill/pull/739 (awaits review)
 * https://github.com/sbt/sbt/pull/9086, https://github.com/sbt/sbt/pull/9088
 * [zio](https://github.com/zio/zio/pulls?q=author%3Alemastero), https://github.com/zio/zio/pull/10618 (WIP), https://github.com/zio/zio/pull/10620
-* https://github.com/trifectatechfoundation/sudo-rs/pull/1565 (awaits review)
+* https://github.com/trifectatechfoundation/sudo-rs/pull/1565
 * https://github.com/clayrat/idris-selective/pull/1
 * [zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero), [zio-prelude](https://github.com/zio/zio-prelude/pulls?q=author%3Alemastero), [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero), [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero), [zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero), [zio-config](https://github.com/zio/zio-config/pulls?q=author%3Alemastero)
 * [scala_typeclassopedia](https://github.com/dancewithheart/scala_typeclassopedia) wiki about FP abstractions in Scala
