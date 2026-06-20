@@ -17,7 +17,7 @@ dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 * https://github.com/skogsbaer/HTF/pull/137, https://github.com/skogsbaer/HTF/pull/138
 * https://github.com/haskell-repa/repa/pull/32 (awaits review)
 * https://github.com/protolude/protolude/pull/153 (awaits review)
-* https://github.com/fizruk/http-api-data/pull/161 (awaits review)
+* https://github.com/well-typed/canonical-json/pull/13 (awaits review)
 
 ## Cryptographic infrastructure modernization
 
@@ -45,7 +45,7 @@ secure decentralized infrastructure, reliable networking, ledger tooling, blockc
 * https://github.com/midnightntwrk/midnight-ledger/pull/533
 * https://github.com/IntersectMBO/plutus/pull/7680 (WIP)
 * [input-output-hk/contra-tracer](https://github.com/input-output-hk/contra-tracer/pull/3), https://github.com/avieth/contra-tracer/pull/9
-* https://github.com/txpipe/pallas/pull/780 (awaits review)
+* https://github.com/txpipe/pallas/pull/780
 * https://github.com/aiken-lang/aiken/pull/1324 (awaits review)
 * [input-output-hk/scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero), [input-output-hk/mantis](https://github.com/input-output-hk/mantis/pulls?q=author%3Alemastero), [ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification/pulls?q=author%3Alemastero), [input-output-hk/metronome](https://github.com/input-output-hk/metronome/pull/3)
 
