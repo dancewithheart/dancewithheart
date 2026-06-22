@@ -46,7 +46,7 @@ secure decentralized infrastructure, reliable networking, ledger tooling, blockc
 * https://github.com/IntersectMBO/plutus/pull/7680 (WIP)
 * [input-output-hk/contra-tracer](https://github.com/input-output-hk/contra-tracer/pull/3), https://github.com/avieth/contra-tracer/pull/9
 * https://github.com/txpipe/pallas/pull/780
-* https://github.com/aiken-lang/aiken/pull/1324 (awaits review)
+* https://github.com/aiken-lang/aiken/pull/1324
 * [input-output-hk/scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero), [input-output-hk/mantis](https://github.com/input-output-hk/mantis/pulls?q=author%3Alemastero), [ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification/pulls?q=author%3Alemastero), [input-output-hk/metronome](https://github.com/input-output-hk/metronome/pull/3)
 
 ## Formal methods, compilers, and proof tooling
