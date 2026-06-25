@@ -1,8 +1,8 @@
-### Be the positive change you want to see in life :heart:
+> Everything is possible for one who believes
+
+[Mark 9:23](https://biblehub.com/mark/9-23.htm)
 
 # Areas of contribution
-
-(includes my work as [lemastero](https://github.com/lemastero))
 
 ## High-assurance supply-chain security
 
