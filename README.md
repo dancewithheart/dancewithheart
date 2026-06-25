@@ -11,7 +11,7 @@ dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 * [cabal-plan-submit](https://github.com/dancewithheart/cabal-plan-submit) Haskell dependency intelligence: GitHub Dependency Submission, cabal-audit SARIF enrichment, dependency paths, direct/transitive classification, deprecated dependency detection
 * https://github.com/MangoIV/cabal-audit/pull/70, https://github.com/MangoIV/cabal-audit/pull/73, https://github.com/MangoIV/cabal-audit/pull/75 (WIP)
 * https://github.com/haskell/security-advisories/pull/321, https://github.com/haskell/security-advisories/pull/322, https://github.com/haskell/security-advisories/pull/331, https://github.com/haskell/security-advisories/pull/335
-* https://github.com/blackheaven/haskell-security-action/pull/8
+* https://github.com/blackheaven/haskell-security-action/pull/8, https://github.com/blackheaven/haskell-security-action/pull/10 (WIP)
 * https://github.com/scalacenter/sbt-dependency-submission/pull/347, https://github.com/scalacenter/sbt-dependency-submission/pull/346
 * https://github.com/TristanCacqueray/cabal-audit/pull/1
 * https://github.com/skogsbaer/HTF/pull/137, https://github.com/skogsbaer/HTF/pull/138
@@ -42,7 +42,7 @@ secure decentralized infrastructure, reliable networking, ledger tooling, blockc
 * https://github.com/input-output-hk/io-sim/pull/251
 * https://github.com/IntersectMBO/ouroboros-network/pull/5372, https://github.com/IntersectMBO/ouroboros-network/pull/5378 (awaits review)
 * https://github.com/IntersectMBO/ouroboros-consensus/pull/2042, https://github.com/IntersectMBO/ouroboros-consensus/pull/1939 (WIP)
-* https://github.com/midnightntwrk/midnight-ledger/pull/533
+* https://github.com/midnightntwrk/midnight-ledger/pull/533, https://github.com/midnightntwrk/midnight-ledger/pull/602 (awaits review)
 * https://github.com/IntersectMBO/plutus/pull/7680 (WIP)
 * [input-output-hk/contra-tracer](https://github.com/input-output-hk/contra-tracer/pull/3), https://github.com/avieth/contra-tracer/pull/9
 * https://github.com/txpipe/pallas/pull/780
@@ -58,7 +58,7 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * https://github.com/agda/cubical/pull/1299
 * [agda-stdlib](https://github.com/agda/agda-stdlib/pulls?q=is%3Apr+author%3Alemastero), https://github.com/agda/agda-stdlib/pull/2965
 * https://github.com/Copilot-Language/copilot/pull/737 (awaits review)
-* [agda2scala](https://github.com/dancewithheart/agda2scala) WIP Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
+* [agda2scala](https://github.com/dancewithheart/agda2scala) Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
 * [kframework/k](https://github.com/kframework/k/pulls?q=author%3Alemastero)
 * [agda-smash](https://github.com/lemastero/agda-smash) formal specification for Haskell [smash](https://hackage.haskell.org/package/smash/) library in Agda
 * [formalverification/milewski-ctfp-pdf](https://github.com/formalverification/milewski-ctfp-pdf/pulls?q=is%3Apr+author%3Alemastero) WIP translation to Agda of [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) by Bartosz Milewski
