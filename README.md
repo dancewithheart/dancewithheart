@@ -1,6 +1,9 @@
-> Everything is possible for one who believes
-
+> Everything is possible for one who believes.
 [Mark 9:23](https://biblehub.com/mark/9-23.htm)
+
+> Like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built.
+[Luke 6:48](https://biblehub.com/luke/6-48.htm)
+ 
 
 # Areas of contribution
 
