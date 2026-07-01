@@ -63,12 +63,12 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * https://github.com/Copilot-Language/copilot/pull/737 (awaits review)
 * [agda2scala](https://github.com/dancewithheart/agda2scala) Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
 * [kframework/k](https://github.com/kframework/k/pulls?q=author%3Alemastero)
-* [agda-smash](https://github.com/lemastero/agda-smash) formal specification for Haskell [smash](https://hackage.haskell.org/package/smash/) library in Agda
+* [agda-smash](https://github.com/dancewithheart/agda-smash) formal specification for Haskell [smash](https://hackage.haskell.org/package/smash/) library in Agda
 * [formalverification/milewski-ctfp-pdf](https://github.com/formalverification/milewski-ctfp-pdf/pulls?q=is%3Apr+author%3Alemastero) WIP translation to Agda of [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) by Bartosz Milewski
 * [HoTT/book](https://github.com/HoTT/book/pulls?q=author%3Alemastero), [statebox/awesome-applied-ct](https://github.com/statebox/awesome-applied-ct/pulls?q=author%3Alemastero), [nlab](https://ncatlab.org/nlab/author/lemastero)
-* [agda-hott](https://github.com/lemastero/agda-hott) Experiments with HoTT, category theory and FP in Agda
-  * [agda-hott/zio-prelude](https://github.com/lemastero/agda-hott/tree/main/src/FP/zio-prelude) WIP formalization of [zio-prelude](https://zio.dev/zio-prelude/) in Agda
-* [agda-verified-fp-algorithms](https://github.com/lemastero/agda-verified-fp-algos) WIP translation of [Software Foundations vol 3 : Verified Functional algorithms](https://softwarefoundations.cis.upenn.edu/) to Agda
+* [agda-hott](https://github.com/dancewithheart/agda-hott) Experiments with HoTT, category theory and FP in Agda
+  * [agda-hott/zio-prelude](https://github.com/dancewithheart/agda-hott/tree/main/src/FP/zio-prelude) WIP formalization of [zio-prelude](https://zio.dev/zio-prelude/) in Agda
+* [agda-verified-fp-algorithms](https://github.com/dancewithheart/agda-verified-fp-algos) WIP translation of [Software Foundations vol 3 : Verified Functional algorithms](https://softwarefoundations.cis.upenn.edu/) to Agda
 * Homotopy Type Theory in Agda - [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround/pulls?q=author%3Alemastero)
 * [https://steshaw.org/plt/](https://github.com/steshaw/plt/pulls?q=author%3Alemastero), [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography/issues?q=author%3Alemastero)
 * [intellij-unison](https://github.com/dancewithheart/intellij-unison) WIP IntelliJ IDEA plugin for Unison language
@@ -88,17 +88,17 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * [zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero), [zio-prelude](https://github.com/zio/zio-prelude/pulls?q=author%3Alemastero), [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero), [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero), [zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero), [zio-config](https://github.com/zio/zio-config/pulls?q=author%3Alemastero)
 * [scala_typeclassopedia](https://github.com/dancewithheart/scala_typeclassopedia) wiki about FP abstractions in Scala
 * [category-actions](https://github.com/dancewithheart/category-actions) encodings of FP abstractions: Functor, Monad, Comonad and their laws in uniform way as actions on category
-* Purescript: [purescript-supermonad](https://github.com/lemastero/purescript-supermonad)
-* exploration abstraction for trifunctors: [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), [Scala - Triglav](https://github.com/lemastero/Triglav), [Haskell - trifunctors](https://github.com/lemastero/trifunctors)
-* exploring different encodings of category theory, applied category theory: [svarog](https://github.com/lemastero/svarog), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
+* Purescript: [purescript-supermonad](https://github.com/dancewithheart/purescript-supermonad)
+* exploration abstraction for trifunctors: [Idris-Trifunctors](https://github.com/dancewithheart/Idris-Trifunctors), [Scala - Triglav](https://github.com/dancewithheart/Triglav), [Haskell - trifunctors](https://github.com/dancewithheart/trifunctors)
+* exploring different encodings of category theory, applied category theory: [svarog](https://github.com/dancewithheart/svarog), [Idris-Applied-Category-Theory](https://github.com/dancewithheart/Idris-Applied-Category-Theory)
 * Racket/Scheme test frameworks: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero), [akeep/rough-draft](https://github.com/akeep/rough-draft)
 
 **Talks**:
 * Why functional programming and category theory strongly matters, 2019, [slides](https://www.slideshare.net/PiotrParadziski/why-functional-programming-and-category-theory-strongly-matters) 
 * Big picture of category theory in scala with deep dive into Contravariant and Profunctors, 2019, [slides](https://www.slideshare.net/PiotrParadziski/big-picture-of-category-theory-in-scala-with-deep-dive-into-contravariant-and-profunctors)
-* Contravariant functors in scala, 2020, [slides](https://www.slideshare.net/PiotrParadziski/contravariant-functors-in-scala), [exercises](https://github.com/lemastero/contravariant_profunctor_exercises)
+* Contravariant functors in scala, 2020, [slides](https://www.slideshare.net/PiotrParadziski/contravariant-functors-in-scala), [exercises](https://github.com/contravariant_profunctor_exercises/contravariant_profunctor_exercises)
 
 **Study gruops**:  
 * 2023 - Agda - based on [PLFA](https://plfa.github.io/)
 * 2022 - HoTT/UF in Agda - based on [Introduction to Univalent Foundations of Mathematics with Agda - Martín Escardó](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/)
-* 2020-2021 - Applied Category Theory - based on 7Sketches and Haskell functional pearls, [schedule](https://github.com/lemastero/applied-category-theory-reading-club/wiki), [attempts to encode in Idris](https://github.com/lemastero/Idris-Applied-Category-Theory)
+* 2020-2021 - Applied Category Theory - based on 7Sketches and Haskell functional pearls, [schedule](https://github.com/lemastero/applied-category-theory-reading-club/wiki), [attempts to encode in Idris](https://github.com/dancewithheart/Idris-Applied-Category-Theory)
