@@ -80,7 +80,7 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * [Scalaz](https://github.com/scalaz/scalaz/pulls?q=author%3Alemastero): [day convolution](https://github.com/scalaz/scalaz/pull/2020), [density commonad](https://github.com/scalaz/scalaz/pull/2029), [laws for strong profunctor](https://github.com/scalaz/scalaz/pull/2028)
 * [cats](https://github.com/typelevel/cats/pulls?q=author%3Alemastero): [laws for strong profunctor](https://github.com/typelevel/cats/pull/2640)
 * [zio-prelude](https://github.com/zio/zio-prelude/pulls?q=author%3Alemastero): Bicovariant, Zivariant, and more
-* https://github.com/zio/zio-protoquill/pull/739 (awaits review)
+* https://github.com/zio/zio-protoquill/pull/739
 * https://github.com/sbt/sbt/pull/9086, https://github.com/sbt/sbt/pull/9088
 * [zio](https://github.com/zio/zio/pulls?q=author%3Alemastero), https://github.com/zio/zio/pull/10618 (WIP), https://github.com/zio/zio/pull/10620
 * https://github.com/trifectatechfoundation/sudo-rs/pull/1565
