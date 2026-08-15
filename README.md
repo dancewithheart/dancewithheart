@@ -85,9 +85,9 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * [zio](https://github.com/zio/zio/pulls?q=author%3Alemastero), https://github.com/zio/zio/pull/10618 (WIP), https://github.com/zio/zio/pull/10620
 * https://github.com/trifectatechfoundation/sudo-rs/pull/1565
 * https://github.com/clayrat/idris-selective/pull/1
+* https://github.com/djspiewak/skolems/pull/8 (awaits review)
 * [zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero), [zio-prelude](https://github.com/zio/zio-prelude/pulls?q=author%3Alemastero), [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero), [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero), [zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero), [zio-config](https://github.com/zio/zio-config/pulls?q=author%3Alemastero)
 * [scala_typeclassopedia](https://github.com/dancewithheart/scala_typeclassopedia) wiki about FP abstractions in Scala
-* [category-actions](https://github.com/dancewithheart/category-actions) encodings of FP abstractions: Functor, Monad, Comonad and their laws in uniform way as actions on category
 * Purescript: [purescript-supermonad](https://github.com/dancewithheart/purescript-supermonad)
 * exploration abstraction for trifunctors: [Idris-Trifunctors](https://github.com/dancewithheart/Idris-Trifunctors), [Scala - Triglav](https://github.com/dancewithheart/Triglav), [Haskell - trifunctors](https://github.com/dancewithheart/trifunctors)
 * exploring different encodings of category theory, applied category theory: [svarog](https://github.com/dancewithheart/svarog), [Idris-Applied-Category-Theory](https://github.com/dancewithheart/Idris-Applied-Category-Theory)
