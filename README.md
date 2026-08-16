@@ -32,7 +32,7 @@ removing deprecated crypto, adding test vectors/docs, modern crypto primitives, 
 * https://github.com/l29ah/pontarius-xmpp/pull/5 (awaits review)
 * https://github.com/kazu-yamamoto/unix-time/pull/68
 * https://github.com/well-typed/cborg/pull/378
-* https://github.com/tlepoint/fhe.rs/pull/375 (awaits review), https://github.com/tlepoint/fhe.rs/pull/376 (WIP)
+* ttps://github.com/tlepoint/fhe.rs/pull/376
 * https://github.com/privacy-ethereum/halo2curves/pull/221 (awaits review), https://github.com/privacy-ethereum/halo2curves/pull/222 (WIP)
 
 ## Cardano / Midnight / resilient blockchain infrastructure
