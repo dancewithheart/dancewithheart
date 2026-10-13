@@ -7,7 +7,7 @@
 
 # Areas of contribution
 
-## High-assurance supply-chain security
+## High-assurance supply-chain security (Scala, Haskell)
 
 dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 
@@ -22,7 +22,7 @@ dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 * https://github.com/protolude/protolude/pull/153 (awaits review)
 * https://github.com/well-typed/canonical-json/pull/13 (awaits review)
 
-## Cryptographic infrastructure modernization
+## Cryptographic infrastructure modernization (Rust, Haskell)
 
 removing deprecated crypto, adding test vectors/docs, modern crypto primitives, ZK/PQ/FHE
 
@@ -35,7 +35,7 @@ removing deprecated crypto, adding test vectors/docs, modern crypto primitives, 
 * ttps://github.com/tlepoint/fhe.rs/pull/376
 * https://github.com/privacy-ethereum/halo2curves/pull/221 (awaits review), https://github.com/privacy-ethereum/halo2curves/pull/222 (WIP)
 
-## Cardano / Midnight / resilient blockchain infrastructure
+## Cardano / Midnight / resilient blockchain infrastructure (Rust, Haskell)
 
 secure decentralized infrastructure, reliable networking, ledger tooling, blockchain security
 
@@ -52,7 +52,7 @@ secure decentralized infrastructure, reliable networking, ledger tooling, blockc
 * https://github.com/aiken-lang/aiken/pull/1324
 * [input-output-hk/scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero), [input-output-hk/mantis](https://github.com/input-output-hk/mantis/pulls?q=author%3Alemastero), [ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification/pulls?q=author%3Alemastero), [input-output-hk/metronome](https://github.com/input-output-hk/metronome/pull/3)
 
-## Formal methods, compilers, and proof tooling
+## Formal methods, compilers, and proof tooling (Scala, Agda, Unison)
 
 verification, correctness, compiler tooling, proof-to-code pipelines
 
@@ -73,7 +73,7 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * [https://steshaw.org/plt/](https://github.com/steshaw/plt/pulls?q=author%3Alemastero), [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography/issues?q=author%3Alemastero)
 * [intellij-unison](https://github.com/dancewithheart/intellij-unison) WIP IntelliJ IDEA plugin for Unison language
 
-## Typed FP ecosystem / engineering foundations
+## Typed FP ecosystem / engineering foundations (Scala, Haskell, Rust)
 
 * [zio-scala3-quickstart.g8](https://github.com/dancewithheart/zio-scala3-quickstart.g8) sbt template for Scala with hardened security thanks to types safety from ZIO and GithubActions enforcing best practices
 * [ekmett/profunctors](https://github.com/ekmett/profunctors/pulls?q=author%3Alemastero)
@@ -92,6 +92,12 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * exploration abstraction for trifunctors: [Idris-Trifunctors](https://github.com/dancewithheart/Idris-Trifunctors), [Scala - Triglav](https://github.com/dancewithheart/Triglav), [Haskell - trifunctors](https://github.com/dancewithheart/trifunctors)
 * exploring different encodings of category theory, applied category theory: [svarog](https://github.com/dancewithheart/svarog), [Idris-Applied-Category-Theory](https://github.com/dancewithheart/Idris-Applied-Category-Theory)
 * Racket/Scheme test frameworks: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero), [akeep/rough-draft](https://github.com/akeep/rough-draft)
+
+
+## Data science / ML (Python)
+
+* [astronomy_lab](https://github.com/dancewithheart/astronomy_visual) - learn ML in Python on astronomy data
+* [contrib-intel](https://github.com/dancewithheart/contrib-intel) - tools to help open source contributions
 
 **Talks**:
 * Why functional programming and category theory strongly matters, 2019, [slides](https://www.slideshare.net/PiotrParadziski/why-functional-programming-and-category-theory-strongly-matters) 
