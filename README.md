@@ -96,7 +96,7 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 
 ## Data science / ML (Python)
 
-* [astronomy_lab](https://github.com/dancewithheart/astronomy_visual) - learn ML in Python on astronomy data
+* [astronomy_lab](https://github.com/dancewithheart/astronomy_lab) - learn ML in Python on astronomy data
 * [contrib-intel](https://github.com/dancewithheart/contrib-intel) - tools to help open source contributions
 
 **Talks**:
