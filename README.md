@@ -56,11 +56,11 @@ secure decentralized infrastructure, reliable networking, ledger tooling, blockc
 
 verification, correctness, compiler tooling, proof-to-code pipelines
 
-* https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25765, https://github.com/scala/scala3/pull/25662 (awaits review)
+* https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25765, https://github.com/scala/scala3/pull/25662
 * [Agda](https://github.com/agda/agda/pulls?q=author%3Alemastero), https://github.com/agda/agda/pull/8491, https://github.com/agda/agda/pull/8493
 * https://github.com/agda/cubical/pull/1299
 * [agda-stdlib](https://github.com/agda/agda-stdlib/pulls?q=is%3Apr+author%3Alemastero), https://github.com/agda/agda-stdlib/pull/2965
-* https://github.com/Copilot-Language/copilot/pull/737 (awaits review)
+* https://github.com/agda/agda2hs/pull/465 (WIP)
 * [agda2scala](https://github.com/dancewithheart/agda2scala) Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
 * [kframework/k](https://github.com/kframework/k/pulls?q=author%3Alemastero)
 * [agda-smash](https://github.com/dancewithheart/agda-smash) formal specification for Haskell [smash](https://hackage.haskell.org/package/smash/) library in Agda
