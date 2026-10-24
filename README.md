@@ -32,7 +32,7 @@ removing deprecated crypto, adding test vectors/docs, modern crypto primitives, 
 * https://github.com/l29ah/pontarius-xmpp/pull/5 (awaits review)
 * https://github.com/kazu-yamamoto/unix-time/pull/68
 * https://github.com/well-typed/cborg/pull/378
-* ttps://github.com/tlepoint/fhe.rs/pull/376
+* https://github.com/tlepoint/fhe.rs/pull/376
 * https://github.com/privacy-ethereum/halo2curves/pull/221 (awaits review), https://github.com/privacy-ethereum/halo2curves/pull/222 (WIP)
 
 ## Cardano / Midnight / resilient blockchain infrastructure (Rust, Haskell)
@@ -59,6 +59,7 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25765, https://github.com/scala/scala3/pull/25662
 * [Agda](https://github.com/agda/agda/pulls?q=author%3Alemastero), https://github.com/agda/agda/pull/8491, https://github.com/agda/agda/pull/8493
 * https://github.com/agda/cubical/pull/1299
+* https://github.com/wasabi315/aegle/pull/19
 * [agda-stdlib](https://github.com/agda/agda-stdlib/pulls?q=is%3Apr+author%3Alemastero), https://github.com/agda/agda-stdlib/pull/2965
 * https://github.com/agda/agda2hs/pull/465 (WIP)
 * [agda2scala](https://github.com/dancewithheart/agda2scala) Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
