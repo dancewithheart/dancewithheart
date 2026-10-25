@@ -61,7 +61,7 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * https://github.com/agda/cubical/pull/1299
 * https://github.com/wasabi315/aegle/pull/19
 * [agda-stdlib](https://github.com/agda/agda-stdlib/pulls?q=is%3Apr+author%3Alemastero), https://github.com/agda/agda-stdlib/pull/2965
-* https://github.com/agda/agda2hs/pull/465 (WIP)
+* https://github.com/agda/agda2hs/pull/465
 * [agda2scala](https://github.com/dancewithheart/agda2scala) Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
 * [kframework/k](https://github.com/kframework/k/pulls?q=author%3Alemastero)
 * [agda-smash](https://github.com/dancewithheart/agda-smash) formal specification for Haskell [smash](https://hackage.haskell.org/package/smash/) library in Agda
