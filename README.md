@@ -18,6 +18,7 @@ dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 * https://github.com/scalacenter/sbt-dependency-submission/pull/347, https://github.com/scalacenter/sbt-dependency-submission/pull/346
 * https://github.com/TristanCacqueray/cabal-audit/pull/1
 * https://github.com/skogsbaer/HTF/pull/137, https://github.com/skogsbaer/HTF/pull/138
+* https://github.com/zio/zio-sbt/pull/846 (awaits review)
 * https://github.com/haskell-repa/repa/pull/32 (awaits review)
 * https://github.com/protolude/protolude/pull/153 (awaits review)
 * https://github.com/well-typed/canonical-json/pull/13 (awaits review)
@@ -26,14 +27,14 @@ dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 
 removing deprecated crypto, adding test vectors/docs, modern crypto primitives, ZK/PQ/FHE
 
-* https://github.com/kazu-yamamoto/crypton/pull/73, https://github.com/kazu-yamamoto/crypton/pull/74 (awaits review)
+* https://github.com/kazu-yamamoto/crypton/pull/73, https://github.com/kazu-yamamoto/crypton/pull/74
 * https://github.com/haskell-cryptography/botan/pull/130, https://github.com/haskell-cryptography/botan/pull/131, https://github.com/haskell-cryptography/botan/pull/132 (reused by [135](https://github.com/haskell-cryptography/botan/pull/135)), https://github.com/haskell-cryptography/botan/pull/133 (awaits review), https://github.com/haskell-cryptography/botan/pull/134 (awaits review)
 * https://github.com/mongodb-haskell/mongodb/pull/161 (awaits review)
 * https://github.com/l29ah/pontarius-xmpp/pull/5 (awaits review)
 * https://github.com/kazu-yamamoto/unix-time/pull/68
 * https://github.com/well-typed/cborg/pull/378
 * https://github.com/tlepoint/fhe.rs/pull/376
-* https://github.com/privacy-ethereum/halo2curves/pull/221 (awaits review), https://github.com/privacy-ethereum/halo2curves/pull/222 (WIP)
+* (project archived): https://github.com/privacy-ethereum/halo2curves/pull/221, https://github.com/privacy-ethereum/halo2curves/pull/222
 
 ## Cardano / Midnight / resilient blockchain infrastructure (Rust, Haskell)
 
@@ -59,8 +60,9 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * https://github.com/scala/scala3/pull/25470, https://github.com/scala/scala3/issues/25162, https://github.com/scala/scala3/pull/25765, https://github.com/scala/scala3/pull/25662
 * [Agda](https://github.com/agda/agda/pulls?q=author%3Alemastero), https://github.com/agda/agda/pull/8491, https://github.com/agda/agda/pull/8493
 * https://github.com/agda/cubical/pull/1299
+* https://github.com/agda/agda-categories/pull/557 (awaits review)
 * https://github.com/wasabi315/aegle/pull/19
-* [agda-stdlib](https://github.com/agda/agda-stdlib/pulls?q=is%3Apr+author%3Alemastero), https://github.com/agda/agda-stdlib/pull/2965
+* [agda-stdlib](https://github.com/agda/agda-stdlib/pulls?q=is%3Apr+author%3Alemastero), https://github.com/agda/agda-stdlib/pull/2965, https://github.com/agda/agda-stdlib/pull/3131 (awaits review)
 * https://github.com/agda/agda2hs/pull/465
 * [agda2scala](https://github.com/dancewithheart/agda2scala) Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
 * [kframework/k](https://github.com/kframework/k/pulls?q=author%3Alemastero)
