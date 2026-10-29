@@ -18,7 +18,9 @@ dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 * https://github.com/scalacenter/sbt-dependency-submission/pull/347, https://github.com/scalacenter/sbt-dependency-submission/pull/346
 * https://github.com/TristanCacqueray/cabal-audit/pull/1
 * https://github.com/skogsbaer/HTF/pull/137, https://github.com/skogsbaer/HTF/pull/138
-* https://github.com/zio/zio-sbt/pull/846 (awaits review)
+* https://github.com/zio/zio-sbt/pull/846
+* https://github.com/zio/zio-http/pull/4354 (awaits review)
+* https://github.com/midnightntwrk/midnight-sdk/pull/451 (awaits review)
 
 ## Cryptographic infrastructure modernization (Rust, Haskell)
 
@@ -59,7 +61,7 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * https://github.com/agda/cubical/pull/1299
 * https://github.com/agda/agda-categories/pull/557 (awaits review)
 * https://github.com/wasabi315/aegle/pull/19
-* [agda-stdlib](https://github.com/agda/agda-stdlib/pulls?q=is%3Apr+author%3Alemastero), https://github.com/agda/agda-stdlib/pull/2965, https://github.com/agda/agda-stdlib/pull/3131 (awaits review)
+* [agda-stdlib](https://github.com/agda/agda-stdlib/pulls?q=is%3Apr+author%3Alemastero), https://github.com/agda/agda-stdlib/pull/2965, https://github.com/agda/agda-stdlib/pull/3131
 * https://github.com/agda/agda2hs/pull/465
 * [agda2scala](https://github.com/dancewithheart/agda2scala) Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
 * [kframework/k](https://github.com/kframework/k/pulls?q=author%3Alemastero)
