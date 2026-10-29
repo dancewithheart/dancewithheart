@@ -4,6 +4,7 @@
 > Like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built.
 [Luke 6:48](https://biblehub.com/luke/6-48.htm)
  
+![GitHub Streak](https://streak-stats.demolab.com/?user=dancewithheart&theme=dark)  
 
 # Areas of contribution
 
