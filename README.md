@@ -20,7 +20,7 @@ dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 * https://github.com/TristanCacqueray/cabal-audit/pull/1
 * https://github.com/skogsbaer/HTF/pull/137, https://github.com/skogsbaer/HTF/pull/138
 * https://github.com/zio/zio-sbt/pull/846
-* https://github.com/zio/zio-http/pull/4354 (awaits review)
+* https://github.com/zio/zio-http/pull/4354
 * https://github.com/midnightntwrk/midnight-sdk/pull/451 (awaits review)
 
 ## Cryptographic infrastructure modernization (Rust, Haskell)
@@ -34,7 +34,6 @@ removing deprecated crypto, adding test vectors/docs, modern crypto primitives, 
 * https://github.com/kazu-yamamoto/unix-time/pull/68
 * https://github.com/well-typed/cborg/pull/378
 * https://github.com/tlepoint/fhe.rs/pull/376
-* (project archived): https://github.com/privacy-ethereum/halo2curves/pull/221, https://github.com/privacy-ethereum/halo2curves/pull/222
 
 ## Cardano / Midnight / resilient blockchain infrastructure (Rust, Haskell)
 
