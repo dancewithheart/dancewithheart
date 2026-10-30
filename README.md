@@ -65,6 +65,7 @@ verification, correctness, compiler tooling, proof-to-code pipelines
 * [agda-stdlib](https://github.com/agda/agda-stdlib/pulls?q=is%3Apr+author%3Alemastero), https://github.com/agda/agda-stdlib/pull/2965, https://github.com/agda/agda-stdlib/pull/3131
 * https://github.com/agda/agda2hs/pull/465
 * [agda2scala](https://github.com/dancewithheart/agda2scala) Scala 2 and Scala 3 backends for Agda - compile Agda proofs into Scala code
+* https://github.com/WhatisRT/pagda/pull/3
 * [kframework/k](https://github.com/kframework/k/pulls?q=author%3Alemastero)
 * [agda-smash](https://github.com/dancewithheart/agda-smash) formal specification for Haskell [smash](https://hackage.haskell.org/package/smash/) library in Agda
 * [formalverification/milewski-ctfp-pdf](https://github.com/formalverification/milewski-ctfp-pdf/pulls?q=is%3Apr+author%3Alemastero) WIP translation to Agda of [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) by Bartosz Milewski
