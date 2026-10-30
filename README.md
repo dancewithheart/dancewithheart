@@ -21,7 +21,7 @@ dependency intelligence, vulnerability metadata, SARIF/SBOM, ecosystem hardening
 * https://github.com/skogsbaer/HTF/pull/137, https://github.com/skogsbaer/HTF/pull/138
 * https://github.com/zio/zio-sbt/pull/846
 * https://github.com/zio/zio-http/pull/4354
-* https://github.com/midnightntwrk/midnight-sdk/pull/451 (awaits review)
+* https://github.com/midnightntwrk/midnight-sdk/pull/451 (awaits review), https://github.com/midnightntwrk/midnight-js/pull/1586 (awaits review)
 
 ## Cryptographic infrastructure modernization (Rust, Haskell)
 
